@@ -52,13 +52,3 @@ streamlit run streamlit_app_all_categories_with_env.py
 - Set the main app file and add secrets via the UI
 
 ---
-
-**requirements.txt**
-```txt
-streamlit
-openai
-pandas
-requests
-python-dotenv
-```
-
